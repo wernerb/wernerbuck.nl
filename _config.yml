@@ -1,20 +1,20 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            Werner's Blog
+tagline:          everything technical and a little real life
+description:      Tech blog
 #Comment out url when working locally to resolve base urls correctly
-url:              http://blog.wernerbuck.nl
+url:              http://www.wernerbuck.nl
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Werner Buck
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Nerd & Levensgenieter"
+  email:          email@wernerbuck.nl
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  linkedin:       
+  twitter:        "wernerbuck"
+  facebook:       "werner.buck"
+  github:         "wernerb"
+  linkedin:       "wernerbuck"
   instagram:      
   lastfm:         
   tumblr:         
@@ -22,7 +22,7 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-44180801-1  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
@@ -30,18 +30,20 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
+  #- title: About
+  #  url: /about
+  - title: Japan Trip 2013
+    url: /japan
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Theme Setup
+#    url: /theme-setup
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Amsterdam
 future:      true
 pygments:    true
 markdown:    kramdown
