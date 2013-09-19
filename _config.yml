@@ -2,7 +2,7 @@ title:            Werner's Blog
 tagline:          everything technical and a little real life
 description:      Tech blog
 #Comment out url when working locally to resolve base urls correctly
-url:              http://www.wernerbuck.nl
+url:              http://wernerbuck.nl
 
 # Owner/author information
 owner:
