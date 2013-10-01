@@ -1,5 +1,16 @@
 ---
 published: false
+layout: post
+description: is niet normaal moeilijk
+modified: "01-10-2013"
+category: articles
+tags: 
+  - internet
+  - japan
+  - hotspots
+  - bluetooth
+image: 
+  feature: "texture-feature-small.jpg"
 ---
 
 Moeilijker dan gedacht! Japan heeft een erg sterk 3g/4g netwerk en heeft ook vele wifi hotspots. 
